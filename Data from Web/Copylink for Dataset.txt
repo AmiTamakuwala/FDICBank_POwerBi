@@ -1,0 +1,8 @@
+fdic bank link:
+https://catalog.data.gov/dataset/fdic-failed-bank-list
+
+from there get data from here,
+Comma Separator...
+      
+
+     https://www.fdic.gov/bank/individual/failed/banklist.csv
